@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leandroleao2k
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Computer Science and Digital Products
+- 🌱 I’m currently learning Data Science, I.A. and Big Data
+- 💞️ I’m looking to collaborate on Spftware Engineering, ML, Databases, Data Mesh, etc
 - 📫 How to reach me lleao2k@gmail.com
 
 <!---
